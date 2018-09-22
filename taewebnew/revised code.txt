@@ -1,0 +1,18 @@
+<ul>
+  <li><a href="https://www.facebook.com/TAEAssociates/photos_stream?ref=page_internal"><img src="images/facebook.png"></a></li>
+  <li><a href="https://www.linkedin.com/company/transamerican-engineers-&-associates"><img src="images/linkedin.png"></a></li>
+  <li><a href="http://www.yelp.com/biz/transamerican-engineers-and-associates-san-francisco-3"><img src="images/yelp.png"></a></li>
+  <li><a href="https://plus.google.com/109670134240147583754/about"><img src="images/google.png"></a></li>
+</ul>
+
+
+
+<ul>
+  <li ><a href="index.html" >HOME</a></li>
+  <li ><a href="company.html" >COMPANY</a></li>
+  <li ><a href="services.aspx" >SERVICES</a></li>
+  <li ><a href="clients.html" >CLIENTS</a></li>
+  <li ><a href="press.html" >PRESS</a></li>
+  <li ><a href="contact.html" >CONTACT</a></li>
+  <li ><a href="careers.html" >CAREERS</a></li>
+</ul>
